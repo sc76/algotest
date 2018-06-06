@@ -6,6 +6,8 @@ public class hellokc {
 
 		
 		// ㄴㅇㄹㄴㅁ
+		
+		// 5차 삭제
 	}
 
 }
